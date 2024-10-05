@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash
-- 👀 I’m interested in Java, Selenium, Rest Assured
+- 👀 I’m interested in Java, Selenium, Rest Assured, Playwright
 - 🌱 I’m currently learning Automation testing
 - 💞️ I’m looking to collaborate on Automation Frameworks
 - 📫 How to reach me: www.linkedin.com/in/yashjain1394
